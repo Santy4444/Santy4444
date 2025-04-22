@@ -3,10 +3,10 @@
 I am taking a Computer Programmer course and I created a github to publish my projects and improve my skills and knowledge.
 
 ## 🏆 Stats
-![<Santy4444>'s Stats](https://github-readme-stats.vercel.app/api?Santy4444=<Santy4444>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Santy4444>'s Stats](https://github-readme-stats.vercel.app/api?username=<Santy4444>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,c++,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,cpp,python)](https://skillicons.dev)
 <!--
 
 Here are some ideas to get you started:
